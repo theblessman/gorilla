@@ -14,9 +14,7 @@ Read more about the technical details and interesting insights in our [blog post
 ![image](./architecture_diagram.png)
 
 
-### Install Dependencies
 
-```bash
 # Create a new Conda environment with Python 3.10
 conda create -n BFCL python=3.10
 
